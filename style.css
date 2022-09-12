@@ -1,0 +1,20 @@
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#currentAssignment {
+    font-size: 2em;
+}
+
+#currentDueDate {
+    font-size: 2em;
+}
+
+#assignmentDueCount {
+    font-size: 2em;
+}
+
+.hidden {
+    display: none;
+}
